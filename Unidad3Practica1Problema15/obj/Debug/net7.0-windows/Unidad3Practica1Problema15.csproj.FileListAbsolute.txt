@@ -1,0 +1,17 @@
+C:\Users\Alumnos\Downloads\IntroProgramacion_DOP\Unidad3Practica1Problema15\bin\Debug\net7.0-windows\Unidad3Practica1Problema15.exe
+C:\Users\Alumnos\Downloads\IntroProgramacion_DOP\Unidad3Practica1Problema15\bin\Debug\net7.0-windows\Unidad3Practica1Problema15.deps.json
+C:\Users\Alumnos\Downloads\IntroProgramacion_DOP\Unidad3Practica1Problema15\bin\Debug\net7.0-windows\Unidad3Practica1Problema15.runtimeconfig.json
+C:\Users\Alumnos\Downloads\IntroProgramacion_DOP\Unidad3Practica1Problema15\bin\Debug\net7.0-windows\Unidad3Practica1Problema15.dll
+C:\Users\Alumnos\Downloads\IntroProgramacion_DOP\Unidad3Practica1Problema15\bin\Debug\net7.0-windows\Unidad3Practica1Problema15.pdb
+C:\Users\Alumnos\Downloads\IntroProgramacion_DOP\Unidad3Practica1Problema15\obj\Debug\net7.0-windows\Unidad3Practica1Problema15.Form1.resources
+C:\Users\Alumnos\Downloads\IntroProgramacion_DOP\Unidad3Practica1Problema15\obj\Debug\net7.0-windows\Unidad3Practica1Problema15.Properties.Resources.resources
+C:\Users\Alumnos\Downloads\IntroProgramacion_DOP\Unidad3Practica1Problema15\obj\Debug\net7.0-windows\Unidad3Practica1Problema15.csproj.GenerateResource.cache
+C:\Users\Alumnos\Downloads\IntroProgramacion_DOP\Unidad3Practica1Problema15\obj\Debug\net7.0-windows\Unidad3Practica1Problema15.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alumnos\Downloads\IntroProgramacion_DOP\Unidad3Practica1Problema15\obj\Debug\net7.0-windows\Unidad3Practica1Problema15.AssemblyInfoInputs.cache
+C:\Users\Alumnos\Downloads\IntroProgramacion_DOP\Unidad3Practica1Problema15\obj\Debug\net7.0-windows\Unidad3Practica1Problema15.AssemblyInfo.cs
+C:\Users\Alumnos\Downloads\IntroProgramacion_DOP\Unidad3Practica1Problema15\obj\Debug\net7.0-windows\Unidad3Practica1Problema15.csproj.CoreCompileInputs.cache
+C:\Users\Alumnos\Downloads\IntroProgramacion_DOP\Unidad3Practica1Problema15\obj\Debug\net7.0-windows\Unidad3Practica1Problema15.dll
+C:\Users\Alumnos\Downloads\IntroProgramacion_DOP\Unidad3Practica1Problema15\obj\Debug\net7.0-windows\refint\Unidad3Practica1Problema15.dll
+C:\Users\Alumnos\Downloads\IntroProgramacion_DOP\Unidad3Practica1Problema15\obj\Debug\net7.0-windows\Unidad3Practica1Problema15.pdb
+C:\Users\Alumnos\Downloads\IntroProgramacion_DOP\Unidad3Practica1Problema15\obj\Debug\net7.0-windows\Unidad3Practica1Problema15.genruntimeconfig.cache
+C:\Users\Alumnos\Downloads\IntroProgramacion_DOP\Unidad3Practica1Problema15\obj\Debug\net7.0-windows\ref\Unidad3Practica1Problema15.dll
